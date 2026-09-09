@@ -47,4 +47,5 @@ java Main
 php index.php
 ```
 
+### Deklarasi Penggunaan AI
 Saya menggunakan AI untuk membantu menyusun struktur dan format dokumen README.md ini, berdasarkan ketentuan tugas. AI juga membantu saya dalam mempelajari langsung bahasa java serta php dalam pengerjaan tugas ini.
