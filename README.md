@@ -37,7 +37,7 @@ Alasan: nomor rekening adalah identitas unik sebuah rekening. Jika nomor ini bis
 ### Java
 
 ```bash
-javac KartuMahasiswa.java Main.java
+javac RekeningBank.java Main.java
 java Main
 ```
 
